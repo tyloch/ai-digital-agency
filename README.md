@@ -42,8 +42,8 @@ An AI application that simulates a full-service software agency using multiple A
 
 1. **Clone** the repository:
     ```bash
-    git clone https://github.com/your-username/ai-services-agency.git
-    cd ai-services-agency
+    git clone https://github.com/tyloch/ai-digital-agency.git
+    cd ai-digital-agency
     ```
 
 2. **Install dependencies** (sample command):
